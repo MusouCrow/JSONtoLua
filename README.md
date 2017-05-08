@@ -12,7 +12,7 @@ First, you should install the Python, and then you can run the program on Termin
 
 ```bash
 # Using Format
-$ python [project directory/file], [JSON file's path]
+$ python [project directory/file], [JSON file path]
 # Example
 $ python /usr/Python/JSONtoLua, /usr/test.json
 ```
